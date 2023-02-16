@@ -1,1 +1,1 @@
-This is  a Data analysis project for learin.
+This is  a Data analysis project for learning.

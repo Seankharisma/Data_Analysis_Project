@@ -35,3 +35,4 @@
 <p>整理分析自己和竞争者的优缺点，将对自己公司有利的情况找出来，随后进行经营策略。</p>
 
 ![3C分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/3c.png)
+

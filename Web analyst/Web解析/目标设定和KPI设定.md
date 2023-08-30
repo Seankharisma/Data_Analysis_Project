@@ -32,7 +32,13 @@
 <p>对于施策来说，可以使用市场那个营销框架来完成如何施策的分析</p>
 
 ### 框架1：3C分析
-<p>整理分析自己和竞争者的优缺点，将对自己公司有利的情况找出来，随后进行经营策略。</p>
+<p><strong>整理分析自己和竞争者的优缺点，将对自己公司有利的情况找出来，随后进行经营策略。</strong></p>
 
 ![3C分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/3c.png)
+
+### 框架2：SWOT分析
+<p><strong>在市场营销中初期使用的分析，服务或者商品的优缺点、机遇、和危机进行分析，
+罗列出特点和问题点、用于在新的企划和战略上</strong></p>
+
+![SWOT分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/3c.png)
 

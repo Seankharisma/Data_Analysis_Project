@@ -42,3 +42,27 @@
 
 ![SWOT分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/SWOT.jpg)
 
+### 框架3：4P分析
+<p><strong>又称呼为混合市场营销，有名的分类法。通过'4P'保证了品牌的一贯性来就行分析。</strong>
+<br>Product(产品)：面向客户的需求能提供的价值是什么？
+<br>Price(价格)：是否符合其价值
+<br>Place(流通)：客户需要的时候就可以入手的流通优化是不是做到最好。
+<br>Promotion(贩卖促进/广告宣传)：是否进行了适度的促销和广告来传达到客户那边。
+</p>
+
+![4P分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/SWOT.jpg)
+
+### 框架4：STP分析
+<p><strong>市场销售最代表的一个手法之一</strong>
+<br>细分市场(Segmenting)- 根据特征和需求把客户细分成不同群体,明确目标客户。
+<br>目标选择(Targeting)- 从细分后的群体中选择营销对象和目标客户。
+<br>定位(Positioning)- 明确产品或服务在选择目标市场上的市场定位。
+</p>
+
+![STP分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/SWOT.jpg)
+
+
+
+
+
+

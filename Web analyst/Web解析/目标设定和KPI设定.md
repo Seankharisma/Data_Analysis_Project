@@ -50,7 +50,7 @@
 <br>Promotion(贩卖促进/广告宣传)：是否进行了适度的促销和广告来传达到客户那边。
 </p>
 
-![4P分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/SWOT.jpg)
+![4P分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/4P.png)
 
 ### 框架4：STP分析
 <p><strong>市场销售最代表的一个手法之一</strong>
@@ -59,7 +59,7 @@
 <br>定位(Positioning)- 明确产品或服务在选择目标市场上的市场定位。
 </p>
 
-![STP分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/SWOT.jpg)
+![STP分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/STP.png)
 
 
 

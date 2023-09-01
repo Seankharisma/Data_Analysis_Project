@@ -61,7 +61,8 @@
 
 ![STP分析](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/STP.png)
 
-
+# 知道目标
+<p>整理目标：</p>
 
 
 

@@ -80,6 +80,6 @@
 ### AIDMA
 <p>在90年代消费者从认知商品到购买商品动作的整一个心理流程</p>
 
-![AIDMA流程分析图](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/STP.png)
+![AIDMA流程分析图](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/AIDMA_photo.png)
 
 

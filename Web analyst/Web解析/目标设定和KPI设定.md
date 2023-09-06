@@ -85,4 +85,4 @@
 ### AISAS（アイサス）
 <p>随着网络和社交媒体的发展和普及，作为现代消费者的行动模型AISAS模式便诞生了</p>
 
-![AISAS流程分析图](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/AIDMA_photo.png)
+![AISAS流程分析图](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/AIDSAS_photo.png)

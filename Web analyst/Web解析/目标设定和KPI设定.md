@@ -74,7 +74,7 @@
 </p>
 
 ## 用户的行动变化
-<p>将目标的行动进行模型化（model）的方式分为AIDMA和AISAS两种方式，由于网络的普及现在主要是AISAS方式</p>
+<p>将目标的行动进行模型化（model）的方式分为AIDMA和AISAS两种方式![](picture/SWOT.jpg)，由于网络的普及现在主要是AISAS方式</p>
 <p>同时是随着时代的发展AIDMA逐渐转型成为了AISAS方式</p>
 
 ### AIDMA（アイドマ）
@@ -86,3 +86,8 @@
 <p>随着网络和社交媒体的发展和普及，作为现代消费者的行动模型AISAS模式便诞生了</p>
 
 ![AISAS流程分析图](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/AIDSAS_photo.png)
+
+## 交流的实际情况
+
+### オムニチャネル
+<p>オムニチャネル：客户在不管是线上还是线下，一直按照任何时机来入手商品的信息，同时随时也可以购买的活动</p>

@@ -102,7 +102,7 @@
 </p>
 <p>客户旅程地图举例：</p>
 
-![カスタマージャーニーマップ](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/AIDSAS_photo.png)
+![カスタマージャーニーマップ](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%AB%E3%83%9E%E3%83%83%E3%83%97.png)
 
 <p>如果只是web的情况的话则是按照下面这个形式来表现：
 <br>①:从条形广告、PPC广告登入登陆页面

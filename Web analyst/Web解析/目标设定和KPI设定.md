@@ -100,6 +100,9 @@
 <br>明确显示每个步骤中客户的行为、想法和感受
 <br>目的在于从客户视角分析旅程,发现改进点
 </p>
+<p>客户旅程地图举例：</p>
+
+![カスタマージャーニーマップ](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/AIDSAS_photo.png)
 
 <p>如果只是web的情况的话则是按照下面这个形式来表现：
 <br>①:从条形广告、PPC广告登入登陆页面

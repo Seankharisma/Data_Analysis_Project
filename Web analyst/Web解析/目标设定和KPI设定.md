@@ -137,8 +137,8 @@
 | 用语 | 全称 | 含义|
 |-|-|-|
 | **KGI**  | KGI（Key Goal Indicator）<br> **经营目标达成指标** |应该达成目标的定量指标<br>例如：3年后营收达到5日元|
-| **CSF**  | CSF（Critical Success Factor）<br　**重要成功要因** | 为了达成目标，重点应该要做什么的要素<br>例如：增加客户数、提升单价 |
-| **KPI**  | KPI（Key Performance Indicator）<br　**重要业绩评价指标** | 为了检测目标达成的过程和实施情况、执行情况的定量的指标<br>例如：新客户获得100人，购入点数为100个 |
+| **CSF**  | CSF（Critical Success Factor）<br>　**重要成功要因** | 为了达成目标，重点应该要做什么的要素<br>例如：增加客户数、提升单价 |
+| **KPI**  | KPI（Key Performance Indicator）<br>　**重要业绩评价指标** | 为了检测目标达成的过程和实施情况、执行情况的定量的指标<br>例如：新客户获得100人，购入点数为100个 |
 
 
 

@@ -96,11 +96,11 @@
 表格的分类：<br>
 
 
-![picture_graph1](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/parentchildweb_struct_analyst_tool.png)
+![picture_graph1](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/picture_graph1.png)
 
-![picture_graph1](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/parentchildweb_struct_analyst_tool.png)
+![picture_graph2](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/picture_graph2.png)
 
-![picture_graph1](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/parentchildweb_struct_analyst_tool.png)
+![picture_graph3](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/picture_graph3.png)
 
 </p>
 

@@ -92,6 +92,17 @@
 
 </p>
 
+<p>
+表格的分类：<br>
+
+
+![picture_graph1](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/parentchildweb_struct_analyst_tool.png)
+
+![picture_graph1](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/parentchildweb_struct_analyst_tool.png)
+
+![picture_graph1](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/parentchildweb_struct_analyst_tool.png)
+
+</p>
 
 
 

@@ -187,3 +187,8 @@ PDCA:不仅仅是Web改善，任何的项目都是这样。根据检证结果，
 
 
 </p>
+
+<p>流程图：
+
+![picture_graph3](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/picture_graph3.png)
+</p>

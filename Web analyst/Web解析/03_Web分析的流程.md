@@ -175,6 +175,7 @@
 
 <p>
 PDCA:不仅仅是Web改善，任何的项目都是这样。根据检证结果，创建的假设和计划，执行，检证这样一个周期流程将其项目走向成功。<br>
+另外：从项目的全体、长期来看，是一个大的PDCA，以及个别的施策单位来说从短期的视点来看则是一个小的PDCA的存在。
 
  - Plan（施策的讨论）
     - 根据网页的目标和以前的实绩相互参照，讨论下具体的施策。
@@ -192,3 +193,5 @@ PDCA:不仅仅是Web改善，任何的项目都是这样。根据检证结果，
 
 ![PDCA](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/PDCA-process.png)
 </p>
+
+# 通过将问题的深度挖掘，将施策的精度提升

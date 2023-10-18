@@ -15,3 +15,7 @@
 以及具体看什么内容，去了什么界面。<br>
 通过Google analysis和web解析的工具来对网站整体进行一个全体项目的一个把握。
 </p>
+<p>相关图片：
+
+![PDCA](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/PDCA-process.png)
+</p>

@@ -17,5 +17,5 @@
 </p>
 <p>相关图片：
 
-![PDCA](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/PDCA-process.png)
+![4point](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/4point.png)
 </p>

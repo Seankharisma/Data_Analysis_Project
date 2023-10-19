@@ -19,3 +19,9 @@
 
 ![4point](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/4point.png)
 </p>
+<p>
+通过上图的1流量、2回游、3转化（收益）、4重复，这4个视点来分析颈瓶问题。<br>
+
+1流入：把握用户访问网页的类型（流量）和参照原始部分（用什么过来访问网页的）。特定问题在哪里。
+
+</p>

@@ -61,7 +61,7 @@
 
 </p>
 
-![picture_graph3](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/picture_graph3.png)
+![Inflow_Reference_Point](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Inflow_Reference_Point.png)
 
 ## ③为了把握**web网页的兴趣关心**的一些专用于和指标
 <p>

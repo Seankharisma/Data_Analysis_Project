@@ -47,6 +47,9 @@
 
 </p>
 
+![Inflow_Reference_Point](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Inflow_Reference_Point.png)
+
+
 ## ②为了把握**访问路径**和**检索词汇**的一些专用于和指标
 <p>
 
@@ -61,7 +64,7 @@
 
 </p>
 
-![Inflow_Reference_Point](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Inflow_Reference_Point.png)
+![Search for words and paragraphs](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Search%20for%20words%20and%20paragraphs.png)
 
 ## ③为了把握**web网页的兴趣关心**的一些专用于和指标
 

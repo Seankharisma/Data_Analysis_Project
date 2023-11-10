@@ -79,12 +79,12 @@
  - 直归数字/直归率
    - 访问了主页的**入口**网页的用户，没去其他页面，直接脱离了。
    - 直归率=直归用户的占比=（直归数/阅览开始数字的）*100  
-   - ![Search for words and paragraphs](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Search%20for%20words%20and%20paragraphs.png)
+   - ![Direct Bounce Rate.png](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Direct%20Bounce%20Rate.png)
 
  - 离脱数字和离脱率
    - 从web网页，用户离开的数字。另外离开网页的用户占比则是离脱率。
    - 离脱率=（离脱网页浏览数/网页浏览数）*100
-   - ![Search for words and paragraphs](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Search%20for%20words%20and%20paragraphs.png)
+   - ![Exit Rate.png](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Exit%20Rate.png)
 
  - 平均网页滞留时间
    - 用户从网页的访问到阅览结束的平均时间，它代表着用户对这个网站的满意度和附着度的一个体现的指标

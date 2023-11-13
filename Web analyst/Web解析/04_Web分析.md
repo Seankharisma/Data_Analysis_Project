@@ -89,7 +89,7 @@
  - 平均网页滞留时间
    - 用户从网页的访问到阅览结束的平均时间，它代表着用户对这个网站的满意度和附着度的一个体现的指标
    - 平均网页滞留时间=访客者网页的滞留时间/访问数
-   - 直归的话平均时间则是秒
+   - 直归的话平均时间则是0秒
    - ![Average_Dwell_Time.png](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Average_Dwell_Time.png)
 
 </p>

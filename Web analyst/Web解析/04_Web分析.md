@@ -92,6 +92,9 @@
    - 直归的话平均时间则是0秒
    - ![Average_Dwell_Time.png](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Average_Dwell_Time.png)
 
+ - 再访问时间（再访问间隔）
+   - 用户从网页离脱之后，到再次访问页面的时间。 
+
 </p>
 
 

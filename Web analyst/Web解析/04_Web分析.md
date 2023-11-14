@@ -93,8 +93,11 @@
    - ![Average_Dwell_Time.png](https://github.com/Seankharisma/Data_Analysis_Project/blob/master/Web%20analyst/Web%E8%A7%A3%E6%9E%90/picture/Average_Dwell_Time.png)
 
  - 再访问时间（再访问间隔）
-   - 用户从网页离脱之后，到再次访问页面的时间。 
+   - 用户从网页离脱之后，到再次访问页面的时间。
 
+ - 转化（成果和网页目标）
+   - 在网页上「購入」「問い合わせ」「資料請求」「会員登録」「サイト滞在時間」「訪問別ページビュー」之类的成果目标的内容
+   
 </p>
 
 

@@ -1,4 +1,4 @@
-
+"""  构造器 """
 def add_methond(func):
     def inner(n):
         a = 1
@@ -14,3 +14,23 @@ def zz(num):
 
 
 zz(66)
+
+""" 带参数的构造器 """
+
+def dfes(flag):
+    def prints(flg):
+        def inner():
+            print(flag+"----")
+        return inner
+    return prints
+
+@dfes("uuu")
+def ff():
+    print("""dddddddd""")
+
+ff()
+
+
+abc = (i for i in range(5,200))
+zzz=next(abc)
+print("""2222sxd""",zzz)

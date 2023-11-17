@@ -30,7 +30,7 @@ def ff():
 
 ff()
 
-
+# 生成器
 abc = (i for i in range(5,200))
 zzz=next(abc)
 print("""2222sxd""",zzz)
